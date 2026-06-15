@@ -137,4 +137,4 @@ Internship Project – AI Recommendation Logic
 
 ---
 
-⭐ If you found this project interesting, feel free to explore and improve it!
+⭐ If you found this project interesting, feel free to explore it!
